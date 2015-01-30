@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2015.1.27)  30 JAN 2015 16:39
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2015.1.27)  30 JAN 2015 16:52
 entering extended mode
 **cv_12.tex
 (C:\Users\Stefano\Documents\GitHub\CurriculumSF\cv_12.tex
@@ -1149,6 +1149,38 @@ My plan is to forget the whole thing and hope for the best.
 .................................................
 . fontspec info: "defining-font"
 . 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
 . Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
 . fonts/lato/].
 . 
@@ -1211,9 +1243,9 @@ My plan is to forget the whole thing and hope for the best.
 . This font family consists of the following shapes:
 .................................................
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 80.
+(Font)              <7> on input line 88.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 80.
+(Font)              <5> on input line 88.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1431,18 +1463,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 . This font family consists of the following shapes:
 .................................................
 
-Overfull \hbox (10.75992pt too wide) in paragraph at lines 221--228
+Overfull \hbox (10.75992pt too wide) in paragraph at lines 229--236
 [][]  
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 263.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 263.
  (C:\Users\Stefano\Documents\GitHub\CurriculumSF\cv_12.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 255.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 255.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 263.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 263.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1451,15 +1483,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 263.
  ) 
 Here is how much of TeX's memory you used:
  21658 strings out of 429025
  397573 string characters out of 3166798
- 467634 words of memory out of 3000000
+ 468634 words of memory out of 3000000
  24769 multiletter control sequences out of 15000+200000
  6132 words of font info for 59 fonts, out of 3000000 for 9000
  912 hyphenation exceptions out of 8191
- 53i,8n,92p,10357b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,8n,92p,10357b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on cv_12.pdf (1 page).
