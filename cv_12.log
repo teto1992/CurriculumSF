@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2015.1.27)  30 JAN 2015 15:33
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2015.1.27)  30 JAN 2015 15:37
 entering extended mode
 **cv_12.tex
 (C:\Users\Stefano\Documents\GitHub\CurriculumSF\cv_12.tex
@@ -1281,13 +1281,37 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .................................................
 . fontspec info: "defining-font"
 . 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
 . Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
 . fonts/lato/].
 . 
 . This font family consists of the following shapes:
 .................................................
 
-Overfull \hbox (11.05893pt too wide) in paragraph at lines 143--153
+Overfull \hbox (11.05893pt too wide) in paragraph at lines 154--164
 [][]  
  []
 
@@ -1299,14 +1323,14 @@ Overfull \hbox (11.05893pt too wide) in paragraph at lines 143--153
 . 
 . This font family consists of the following shapes:
 .................................................
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 195.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
  (C:\Users\Stefano\Documents\GitHub\CurriculumSF\cv_12.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 195.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 195.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 206.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1315,7 +1339,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 195.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
  ) 
 Here is how much of TeX's memory you used:
  21656 strings out of 429025
