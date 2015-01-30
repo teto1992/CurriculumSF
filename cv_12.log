@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2015.1.27)  30 JAN 2015 16:38
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2015.1.27)  30 JAN 2015 16:39
 entering extended mode
 **cv_12.tex
 (C:\Users\Stefano\Documents\GitHub\CurriculumSF\cv_12.tex
@@ -990,8 +990,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 (Font)              size <5> substituted on input line 14.
 
-File: photo.png Graphic file (type QTm)
-<use  "photo.png" >
+File: photo.jpg Graphic file (type QTm)
+<use  "photo.jpg" >
 
 LaTeX Font Warning: Font shape `EU1/Lato-Lig(0)/m/sc' undefined
 (Font)              using `EU1/Lato-Lig(0)/m/n' instead on input line 28.
