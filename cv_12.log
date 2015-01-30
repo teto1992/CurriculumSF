@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2015.1.27)  30 JAN 2015 15:19
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2015.1.27)  30 JAN 2015 15:30
 entering extended mode
 **cv_12.tex
 (C:\Users\Stefano\Documents\GitHub\CurriculumSF\cv_12.tex
@@ -1028,6 +1028,44 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
 (Font)              using `EU1/Lato-Bol(0)/m/n' instead on input line 30.
 
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 30.
+
+! Undefined control sequence.
+\\->\let \reserved@e 
+                     \relax \let \reserved@f \relax \@ifstar {\let \reserved...
+l.30 ...{SSSUP Sant'Anna \& \\Università di Pisa}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Argument of \ttl@assign@i has an extra }.
+<inserted text> 
+                \par 
+l.30 ...{SSSUP Sant'Anna \& \\Università di Pisa}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\def \reserved@b {\@xnewline }\futurelet \@let@token \@ifnch Universi\ETC.
+! Paragraph ended before \ttl@assign@i was complete.
+<to be read again> 
+                   \par 
+l.30 ...{SSSUP Sant'Anna \& \\Università di Pisa}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1065,6 +1103,78 @@ LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
 . 
 . Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
 . options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
+. fonts/lato/].
 . 
 . This font family consists of the following shapes:
 .................................................
@@ -1097,74 +1207,18 @@ LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
 . 
 . Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
 . fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
 . 
 . This font family consists of the following shapes:
 .................................................
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 107.
+(Font)              <7> on input line 80.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 107.
+(Font)              <5> on input line 80.
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
+. Font family 'Lato-Lig(1)' created for font 'Lato-Lig' with options [Path =
+. fonts/lato/].
 . 
 . This font family consists of the following shapes:
 .................................................
@@ -1313,7 +1367,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 . This font family consists of the following shapes:
 .................................................
 
-Overfull \hbox (11.05893pt too wide) in paragraph at lines 201--211
+Overfull \hbox (11.05893pt too wide) in paragraph at lines 181--191
 [][]  
  []
 
@@ -1325,15 +1379,14 @@ Overfull \hbox (11.05893pt too wide) in paragraph at lines 201--211
 . 
 . This font family consists of the following shapes:
 .................................................
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
 [1
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
+] [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
  (C:\Users\Stefano\Documents\GitHub\CurriculumSF\cv_12.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 253.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 253.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 233.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 233.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1342,15 +1395,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
  ) 
 Here is how much of TeX's memory you used:
- 21662 strings out of 429025
- 397761 string characters out of 3166798
- 469634 words of memory out of 3000000
- 24771 multiletter control sequences out of 15000+200000
- 6148 words of font info for 61 fonts, out of 3000000 for 9000
+ 21656 strings out of 429025
+ 397479 string characters out of 3166798
+ 468634 words of memory out of 3000000
+ 24768 multiletter control sequences out of 15000+200000
+ 6124 words of font info for 58 fonts, out of 3000000 for 9000
  912 hyphenation exceptions out of 8191
- 53i,12n,92p,10357b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,12n,92p,10357b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on cv_12.pdf (2 pages).
